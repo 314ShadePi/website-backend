@@ -1,0 +1,22 @@
+{
+    "games": [
+        {
+            "id": "csgo",
+            "name": "Counter Strike: Global Offensive",
+            "description": "Counter Strike: Global Offensive (CS:GO) is a first-person shooter video game developed by Valve Corporation and released in September 2007 for Microsoft Windows and OS X.",
+            "version": "v1.0.0",
+            "developer": "Valve",
+            "license": "Copyright Valve Corporation. All rights reserved.",
+            "data": "games/data/csgo.json"
+        },
+        {
+            "id": "dota2",
+            "name": "Dota 2",
+            "description": "Dota 2 is a first-person shooter video game developed by Valve Corporation and released in May 2012 for Microsoft Windows and OS X.",
+            "version": "v1.0.0",
+            "developer": "Valve",
+            "license": "Copyright Valve Corporation. All rights reserved.",
+            "data": "games/data/dota2.json"
+        }
+    ]
+}

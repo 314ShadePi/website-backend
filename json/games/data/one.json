@@ -1,0 +1,59 @@
+{
+    "content": {
+        "info": {
+            "id": "csgo",
+            "title": "Counter Strike: Global Offensive",
+            "description": "Counter Strike: Global Offensive (CS:GO) is a first-person shooter video game developed by Valve Corporation and released in September 2007 for Microsoft Windows and OS X.",
+            "downloads": {
+                "windows": "",
+                "mac": "",
+                "linux": "",
+                "other": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+            },
+            "downloadType": "steam",
+            "image": "http://cdn.akamai.steamstatic.com/steam/apps/730/capsule_sm_120.jpg",
+            "version": "v1.0.0",
+            "developer": "Valve",
+            "license": "Copyright Valve Corporation. All rights reserved."
+        },
+        "children": [
+            {
+                "tagType": "h1",
+                "text": "Counter Strike: Global Offensive",
+                "properties": {
+                    "class": "title",
+                    "id": "title"
+                },
+                "children": []
+            },
+            {
+                "tagType": "div",
+                "text": "",
+                "properties": {
+                    "class": "container",
+                    "id": ""
+                },
+                "children": [
+                    {
+                        "tagType": "p",
+                        "text": "Counter Strike: Global Offensive",
+                        "properties": {
+                            "class": "",
+                            "id": ""
+                        },
+                        "children": []
+                    },
+                    {
+                        "tagType": "p",
+                        "text": "Made by Valve",
+                        "properties": {
+                            "class": "",
+                            "id": ""
+                        },
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+}

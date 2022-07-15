@@ -1,0 +1,13 @@
+{
+    "games": [
+        {
+            "id": "one",
+            "name": "One",
+            "description": "A Game",
+            "version": "v0-alpha.0.0",
+            "developer": "314ShadePi",
+            "license": "",
+            "data": "json/games/data/one.json"
+        }
+    ]
+}
