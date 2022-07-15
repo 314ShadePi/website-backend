@@ -1,25 +1,25 @@
 {
     "content": {
         "info": {
-            "id": "csgo",
-            "title": "Counter Strike: Global Offensive",
-            "description": "Counter Strike: Global Offensive (CS:GO) is a first-person shooter video game developed by Valve Corporation and released in September 2007 for Microsoft Windows and OS X.",
+            "id": "one",
+            "title": "One",
+            "description": "A Game",
             "downloads": {
                 "windows": "",
                 "mac": "",
                 "linux": "",
-                "other": "https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/"
+                "other": "https://store.steampowered.com/app/1890830/000000/?beta=1"
             },
             "downloadType": "steam",
-            "image": "http://cdn.akamai.steamstatic.com/steam/apps/730/capsule_sm_120.jpg",
-            "version": "v1.0.0",
-            "developer": "Valve",
-            "license": "Copyright Valve Corporation. All rights reserved."
+            "image": "",
+            "version": "v0-alpha.0.0",
+            "developer": "314ShadePi",
+            "license": "GPLv3"
         },
         "children": [
             {
                 "tagType": "h1",
-                "text": "Counter Strike: Global Offensive",
+                "text": "One",
                 "properties": {
                     "class": "title",
                     "id": "title"
@@ -36,7 +36,7 @@
                 "children": [
                     {
                         "tagType": "p",
-                        "text": "Counter Strike: Global Offensive",
+                        "text": "One",
                         "properties": {
                             "class": "",
                             "id": ""
@@ -45,7 +45,7 @@
                     },
                     {
                         "tagType": "p",
-                        "text": "Made by Valve",
+                        "text": "Made by 314ShadePi",
                         "properties": {
                             "class": "",
                             "id": ""
