@@ -7,7 +7,7 @@
             "version": "v1.0.0",
             "developer": "Valve",
             "license": "Copyright Valve Corporation. All rights reserved.",
-            "data": "games/data/csgo.json"
+            "data": "json/games/data/csgo.json"
         },
         {
             "id": "dota2",
@@ -16,7 +16,7 @@
             "version": "v1.0.0",
             "developer": "Valve",
             "license": "Copyright Valve Corporation. All rights reserved.",
-            "data": "games/data/dota2.json"
+            "data": "json/games/data/dota2.json"
         }
     ]
 }
