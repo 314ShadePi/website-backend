@@ -18,11 +18,11 @@
         },
         "children": [
             {
-                "tagType": "h1",
-                "text": "One",
+                "tagType": "h2",
+                "text": "One - A Game",
                 "properties": {
-                    "class": "title",
-                    "id": "title"
+                    "class": "subtitle",
+                    "id": "subtitle-1"
                 },
                 "children": []
             },
