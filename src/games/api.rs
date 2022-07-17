@@ -107,20 +107,3 @@ pub fn games_cfg(cfg: &mut web::ServiceConfig) {
         .service(get_game)
     );
 }
-/*
-async fn get_game_list() -> Result<game_list::GameList, Errors> {
-    let path_to_file = Path::new("json/games/game_list.json");
-    let game_list = File::open(&path_to_file);
-    let game_list = match game_list {
-        Ok(file) => file,
-        Err(_) => return Err(Errors::InternalServerError),
-    };
-    let game_list = serde_json::from_reader(game_list);
-    let game_list = match game_list {
-        Ok(f) => f,
-        Err(_) => return Err(Errors::InternalServerError),
-    };
-
-    game_list
-}
-*/
